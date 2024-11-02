@@ -1,0 +1,6 @@
+# Project exclude paths
+/dep/target/
+/multimodule/multimoduledep/target/
+/multimodule/multimodulenodep/target/
+/nodep/target/
+/.idea/
